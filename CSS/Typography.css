@@ -1,0 +1,72 @@
+@font-face {
+    font-family: Philosopher;
+    src: url(../Fonts/Philosopher-Regular.ttf);
+}
+@font-face {
+    font-family: BebasMeue;
+    src: url(../Fonts/BebasNeue.otf);
+}
+body {
+    font-family: Philosopher, Arial, Sans-Serif;
+    font-size: 18px;
+    line-height: 1.5;
+}
+.Logo > a > h1 {
+    font-family:Overlock;
+    font-size: 75px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow:  0px 0px 3px #000, 0px 0px 3px #000, 0px 0px 3px #000, 0px 0px 3px #000, 0px 0px 3px #000, 0px 0px 3px #000, 0px 0px 3px #000;
+}
+h1,h2,h3,h4,h5,h6 { font-weight: normal; color: #111; }
+
+h1 { font-size: 3em; line-height: 1; margin-bottom: 0.5em; }
+h2 { font-size: 2em; margin-bottom: 0.75em; }
+h3 { font-size: 1.5em; line-height: 1; margin-bottom: 1em; }
+h4 { font-size: 1.2em; line-height: 1.25; margin-bottom: 1.25em; }
+h5 { font-size: 1em; font-weight: bold; margin-bottom: 1.5em; }
+h6 { font-size: 1em; font-weight: bold; }
+
+h1 img, h2 img, h3 img, 
+h4 img, h5 img, h6 img {
+  margin: 0;
+}
+.ThreeCollectorWrapper  {
+    font-family:Overlock;
+    
+}
+
+.ThreeCollectorWrapper > left-countainer > a {
+    color: black;
+}
+a:link  {
+    text-decoration: none;
+    color: #000;
+    text-align: center;
+    display: block;
+
+}
+ nav > ul >li > a:link { color: #fff; 
+
+}
+
+
+a:visited { color: #ffffff; 
+
+}
+
+h3 {
+    text-align: center;
+   }
+hr {
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div > div > a:hover {
+    text-decoration:underline;
+}
+middle-container, left-countainer, right-countainer {
+    text-align:center;
+}
