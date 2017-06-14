@@ -2,7 +2,7 @@ html, body {
 height: 100%;
 }
 body {
-    background: url(../images/bg.jpg) no-repeat fixed -60px -15px; 
+    background: url(../Images/bg.jpg) no-repeat fixed -60px -15px; 
     background-size: 150% 150%;
      /*-webkit-background-size: cover;
   -moz-background-size: cover;
@@ -110,8 +110,8 @@ left: 15%;
     visibility:hidden;
 }
 .MainWrapper , .MainWrapperB {
-    /*background: url(../images/bg.jpg)no-repeat center center fixed*/
-    background: url(../images/Paper-BG.jpg);
+    /*background: url(../Images/bg.jpg)no-repeat center center fixed*/
+    background: url(../Images/Paper-BG.jpg);
     box-sizing:border-box;
     width:80%;
     margin: 10px auto;
@@ -163,7 +163,7 @@ left: 15%;
     padding: 2.5% 0px;
     margin:1em;
     background-color:aquamarine;
-    background: url(../images/NumberClass.jpg) center center;
+    background: url(../Images/NumberClass.jpg) center center;
     background-size: contain;
     background-size: cover;
     font-size: 1.5em;
@@ -199,7 +199,7 @@ left: 15%;
     padding: 2.5% 0px;
     margin:1em;
     background-color:aquamarine;
-    background: url(../images/NumberClass.jpg) center center;
+    background: url(../Images/NumberClass.jpg) center center;
     background-size: contain;
     background-size: cover;
     font-size: 1.5em;
